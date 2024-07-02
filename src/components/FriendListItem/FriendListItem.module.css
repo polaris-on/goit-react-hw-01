@@ -1,0 +1,18 @@
+.info {
+    padding: 10px;
+    border: 1px solid darkgreen;
+    border-radius: 10px;
+}
+.avatar {
+    margin-bottom: 10px;
+}
+.name {
+    margin-bottom: 5px;
+    font-size: 19px;
+}
+.status {
+    color: red;
+}
+.status.isOnline {
+    color: green;
+}
